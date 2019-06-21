@@ -1,9 +1,4 @@
-/*
- * Pila.h
- *
- *  Created on: 01/07/2014
- *      Author: Pilar
- */
+
 #ifndef NODOPILA_H_
 #define NODOPILA_H_
 
