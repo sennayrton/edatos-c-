@@ -1,9 +1,4 @@
-/*
- * ListaNoOrdenada.h
- *
- *  Created on: 10/07/2014
- *      Author: pmartin
- */
+
 
 #ifndef NODOLISTA_H_
 #define NODOLISTA_H_
