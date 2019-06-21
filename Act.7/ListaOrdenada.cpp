@@ -1,9 +1,3 @@
-/*
- * ListaOrdenada.cpp
- *
- *  Created on: 10/07/2014
- *      Author: pmartin
- */
 
 #include "ListaOrdenada.h"
 
