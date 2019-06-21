@@ -1,5 +1,3 @@
-//Actividad2.cpp
-//Revisado 29/01/2018
 
 #include <iostream>
 #include <stack>
