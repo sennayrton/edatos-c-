@@ -1,9 +1,4 @@
-/*
- * Actividad.cpp
- *
- *  Created on: 20/03/2015
- *      Author: Pilar
- */
+
 #include "Lista.h"
 
 void juegoEnsayo1(Lista &lista) {
