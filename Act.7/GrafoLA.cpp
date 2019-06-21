@@ -1,9 +1,3 @@
-/*
- * GrafoLA.cpp
- *
- *  Created on: 6/1/2015
- *      Author: carolinagallardo
- */
 
 #include "GrafoLA.h"
 #include "ListaOrdenada.h"
