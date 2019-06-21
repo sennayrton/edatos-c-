@@ -1,8 +1,3 @@
-/*
- *  PruebasFilmo.cpp
- *  Created on: 2/3/2015
- *  Author: carolina
- */
 
 #include "Filmoteca.h"
 #include "Pelicula.h"
