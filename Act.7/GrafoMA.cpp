@@ -1,9 +1,3 @@
-/*
- * GrafoMA.cpp
- *
- *  Created on: 7 may. 2018
- *      Author: pilar
- */
 
 #include "GrafoMA.h"
 #include <iostream>
