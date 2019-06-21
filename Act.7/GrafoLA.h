@@ -1,9 +1,3 @@
-/*
- * GrafoLA.h
- *
- *  Created on: 6/1/2015
- *      Author: carolinagallardo
- */
 
 #ifndef GRAFOLA_H_
 #define GRAFOLA_H_
