@@ -1,9 +1,4 @@
-/*
- * Arbol.h
- *
- *  Created on: 21/12/2014
- *      Author: pmartin
- */
+
 #include <iostream>
 using namespace std;
 
