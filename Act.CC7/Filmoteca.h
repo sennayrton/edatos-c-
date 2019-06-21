@@ -1,9 +1,3 @@
-/*
- * Filmoteca.h
- *
- * Created by Carolina Gallardo.
- * Copyright (c) 2016. All rights reserved.
- */
 
 #include <string>
 #include <iostream>
