@@ -1,9 +1,3 @@
-/*
- *  PruebasFilmo.cpp
- *  Created on: 2/3/2015
- *  Author: carolina
- */
-
 #include "Filmoteca.h"
 #include "Pelicula.h"
 #include <iostream>
@@ -60,7 +54,7 @@ int main () {
 	cout << "Pulse una tecla para continuar" << endl;
 	cin.get ();
 
-	cout << "Prueba P5: PELIS NO VÁLIDAS" << endl;
+	cout << "Prueba P5: PELIS NO VÃLIDAS" << endl;
 	probarNoValido ();
 	cout << separador << endl;
 
@@ -74,7 +68,7 @@ int main () {
 	cout << "    PRUEBAS DE FILMOTECA" << endl;
 	cout << "***********************************************" << endl;
 
-	cout << "Prueba F1. Mostrar una filmoteca vacía" << endl;
+	cout << "Prueba F1. Mostrar una filmoteca vacÃ­a" << endl;
 	film.mostrarFilmoteca ();
 	cout << separador << endl;
 	cout << "Pulse una tecla para continuar" << endl;
@@ -232,7 +226,7 @@ void _probarEliminar (Filmoteca &fi, string t) {
 }
 
 void probarEliminar (Filmoteca &f) {
-	cout << "Última:" << endl;
+	cout << "Ãšltima:" << endl;
 	_probarEliminar (f, "Zoiberg el Robot");
 	cout << "Primera:" << endl;
 	_probarEliminar (f, "Azarosos");
@@ -259,7 +253,7 @@ void rellenarFilmoteca (Filmoteca &f) {
 	string docu = "documentales";
 	Pelicula p = pruebaConstructor1 ();
 	Pelicula p1 ("Cenicienta", "Almodovar", ani, 2015);
-	Pelicula p2 ("Pinocho", "Buñuel", drama, 1980);
+	Pelicula p2 ("Pinocho", "BuÃ±uel", drama, 1980);
 	probarReparto (p2);
 	Pelicula p3 ("Yoga", "Emir", drama, 2010);
 	Pelicula p4 ("Kunfu", "Bruce Lee", comedia, 1989);
