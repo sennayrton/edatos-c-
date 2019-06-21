@@ -1,9 +1,3 @@
-/*
- * Pelicula.h
- *
- *  Created on: 24/2/2016
- *      Author: carolina
- */
 
 #include <sstream>
 #include <iostream>
