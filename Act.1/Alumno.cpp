@@ -1,9 +1,3 @@
-/*
- * Alumno.cpp
- *
- *  Created on: 23/1/2015
- *      Author: carolinagallardo
- */
 
 #include "Alumno.h"
 #include <iostream>
