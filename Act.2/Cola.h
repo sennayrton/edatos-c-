@@ -1,9 +1,4 @@
-/*
- * Cola.h
- *
- *  Created on: 29/09/2014
- *      Author: Pilar
- */
+
 #ifndef NODOCOLA_H_
 #define NODOCOLA_H_
 
