@@ -1,9 +1,4 @@
-/*
- * Prueba.cpp
- *
- *  Created on: 19 feb. 2018
- *      Author: Sergio
- */
+
 #include "Alumno.h"
 #include <iostream>
 #include <string>
@@ -32,7 +27,7 @@ int main() {
 
 	Alumno a1("Arias Gonzalez", "Felipe", "aa1253", 3.50);
 
-	Alumno a2("Garcia Sacedón", "Manuel", "ax0074", 8.35);
+	Alumno a2("Garcia SacedÃ³n", "Manuel", "ax0074", 8.35);
 
 	Alumno a3("Lopez Medina", "Margarita", "mj7726", 7.70);
 
