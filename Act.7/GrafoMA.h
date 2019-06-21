@@ -1,9 +1,3 @@
-/*
- * GrafoMA.h
- *
- *  Created on: 7 may. 2018
- *      Author: pilar
- */
 
 #ifndef GRAFOMA_H_
 #define GRAFOMA_H_
